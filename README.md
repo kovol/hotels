@@ -1,1 +1,1 @@
-# hotels
+Responsive, crossbrowser. Flex. SCSS.
